@@ -1,5 +1,16 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## First create .env
+
+```bash
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+DATABASE_URL=
+STRIPE_API_KEY=
+NEXT_PUBLIC_APP_URL=
+STRIPE_WEBHOOK_SECRET=
+```
+
 ## Getting Started
 
 First, run the development server:
